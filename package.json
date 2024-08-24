@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "crypto.js": "^3.2.1",
+    "firebase": "^10.12.2",
+    "idb": "^8.0.0",
+    "react-router": "^6.24.1",
+    "react-router-dom": "^6.24.1"
+  }
+}
